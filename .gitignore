@@ -1,0 +1,22 @@
+## Build results
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+## Debug/release binaries
+*.pdb
+*.exe
+*.dll
+
+## User config
+config.json
+
+## OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
