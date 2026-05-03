@@ -61,6 +61,7 @@ public partial class MainWindow : Window
         }
 
         InitializeTimer();
+        ConfigManager.SetAutoStart(_config.AutoStart);
     }
 
     private void InitializeTimer()
